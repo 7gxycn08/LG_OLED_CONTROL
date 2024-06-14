@@ -9,3 +9,9 @@ Usage:
 
 
 4. Compile to exe with disabled console or run locally using task scheduler.
+
+
+5.`CTRL+SHIFT+F12toF4` Controls TV 1.
+
+
+6.`CTRL+ALT+F12toF4` Controls TV 2.
